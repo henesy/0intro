@@ -1,5 +1,5 @@
 +++
-title = "Ori"
+title = "Ori Bernstein"
 date = "2020-12-04"
 tags = [
 	"plan9",
@@ -12,7 +12,7 @@ summary = "Ori Bernstein discusses Plan 9"
 youtube_id = "jYen3cXss8k"
 +++
 
-# Ori
+# Episode 1: Ori
 
 Ori Bernstein discusses Plan 9, an internship with Bell Labs, Myrddin, and so much more. 
 
