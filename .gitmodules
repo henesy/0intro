@@ -1,0 +1,3 @@
+[submodule "themes/origin"]
+	path = themes/origin
+	url = https://github.com/henesy/origin-hugo-theme.git
