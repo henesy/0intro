@@ -1,5 +1,6 @@
 +++
 title = "About"
+unlisted = true
 +++
 
 Episodes are available uncut on YouTube: <https://www.youtube.com/user/C04tl3/videos>
