@@ -20,4 +20,4 @@ Recording: <https://0introsa.blob.core.windows.net/0intro/ori.mp3>
 
 Uncut: <https://youtu.be/jYen3cXss8k>
 
-Enormous thanks to David Morandini for transcribing this episode: <https://0introsa.blob.core.windows.net/0intro/ori.txt>
+Enormous thanks to Daniel Morandini for transcribing this episode: <https://0introsa.blob.core.windows.net/0intro/ori.txt>
